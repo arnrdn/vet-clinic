@@ -2,6 +2,8 @@
 
 > This project is about vet clinic database. Built with PostgreSQL.
 
+<img src="img/db_schema.png" alt="data base schema">
+
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
